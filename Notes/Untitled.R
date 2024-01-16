@@ -1,4 +1,8 @@
 getwd()
 list.files()
 list.files(path = 'Assignments/', recursive = T)
+?list.files()
+
+
+
 
